@@ -22,7 +22,7 @@ Simultaneously, I am currently studying Data Science, which is the field I genui
 I have always been optimizing tasks/things, I've lately started automating them.<br>
 This year I've discovered the joy of building applications, designing UI/UX, and implementing AI, whenever it makes sense.
 
-Currently, I have 2 project pinned, which I am genuinely satisfied with.<br>
+Currently, I have 4 project pinned, which I am genuinely satisfied with.<br>
 Particularly ORZApp, which I use daily in my 'first life' and I'm looking forward to developing.
 
 Feel free to contact me!
